@@ -33,5 +33,5 @@ This version of Nibbles game presents three game modes:
 
 ## Credits
 
-matallui <matallui@gmail.com>
+<matallui@gmail.com>
 	
