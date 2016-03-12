@@ -1,6 +1,13 @@
 # nibble-curses
 
 A C++ / ncurses implementation of the old nibbles game.
+
+## Screenshot
+
+![screenshot01](https://github.com/matallui/nibble-curses/blob/master/screenshots/screen01.png)
+
+## Description
+
 This project intends to implement a variant of the classical Nibbles game, with the possibility of multiplayer over the network.
 This version of Nibbles game presents three game modes:
 
